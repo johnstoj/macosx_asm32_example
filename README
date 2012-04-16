@@ -1,0 +1,7 @@
+MacOS X x86 Assembly example.
+
+Notes:
+	Stack needs to be 16 byte aligned!
+
+Dependencies:
+	1. Install nasm (http://www.nasm.us/), and stick it in your path.
